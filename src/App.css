@@ -1,0 +1,39 @@
+/* Nerdy secret: You can use "less" below! Don't tell anybody... */
+
+.github-profile {
+      margin: 100px;
+  }
+  
+  img {
+      width: 75px;
+      margin-left: 20px;
+  }
+  
+  .info {
+      display: inline-block;
+      margin-left: 16px;
+      vertical-align: top;
+  }
+  .name {
+      margin-bottom: 10px;
+      font-size: 20px;
+      font-weight: bold;
+  }
+  
+  form {
+    border: thin solid #ddd;
+    background-color: #fbfbfb;
+    padding: 20px;
+    margin-bottom: 100px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .header {
+      text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+  }
+  
